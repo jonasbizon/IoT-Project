@@ -1,0 +1,12 @@
+# creds.py
+
+# ── WiFi
+WIFI_SSID = "LPWAN-IoT-02"
+WIFI_PWD  = "LPWAN-IoT-02-WiFi"
+
+# ── Thingsboard MQTT
+_MQTT_REMOTE_SERVER_IP_ = "147.229.148.105"
+_MQTT_REMOTE_SERVER_PORT_ = 1883
+_MQTT_CLIENT_ID_ = "0c728860-4867-11f1-afb8-c9a39f5d1035"
+_MQTT_ACCESS_TOKEN_ = "aquxh6dys3y8hzqv6vnk"
+_MQTT_PASSWORD_ = ""

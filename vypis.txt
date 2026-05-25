@@ -1,0 +1,14 @@
+WiFi: Pøipojování...
+WiFi: Pøipojeno. IP:  192.168.137.64
+MQTT: pøipojeno
+INIT: Inicializace brány.
+INIT: Brána je zavøená.
+MQTT:  b'v1/devices/me/rpc/request/113' b'{"method":"rpcCommand","params":{"gate_command":"OPEN"}}'
+RUN: Brána se otevírá.
+RUN: Otevøeno - koncový spínaè.
+MQTT:  b'v1/devices/me/rpc/request/114' b'{"method":"rpcCommand","params":{"gate_command":"CLOSE"}}'
+RUN: Brána se zavíra.
+RUN: Pøekážka.
+RUN: Obnovuji pohyb, cas prekazky uplynul.
+RUN: Brána se zavíra.
+RUN: Zavøeno - koncový spínaè.
